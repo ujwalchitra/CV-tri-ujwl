@@ -58,8 +58,8 @@ The evaluation demonstrates strong precision and reliable detection performance 
 
 ### Detected Road Damages
 
-| Before | After Detection |
-|---------|-----------------|
+|Before and After Detection |
+|---------------------------|
 | ![](samples/1.png)        |
 | ![](samples/2.png)        |
 
