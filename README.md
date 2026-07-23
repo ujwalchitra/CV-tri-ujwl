@@ -39,20 +39,6 @@ The model was trained on over **27,000 annotated road images** containing multip
 
 ---
 
-## 📊 Model Performance
-
-The model was evaluated using multiple performance metrics including:
-
-- Precision–Confidence Curve
-- Precision–Recall Curve
-- Recall–Confidence Curve
-- F1–Confidence Curve
-- Confusion Matrix
-- Normalized Confusion Matrix
-
-The evaluation demonstrates strong precision and reliable detection performance across different confidence thresholds.
-
----
 
 ## 📸 Sample Predictions
 
