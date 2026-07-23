@@ -1,17 +1,17 @@
-# 🛣️ Road Damage Detection System
+#  Road Damage Detection System
 
 A Machine Learning project that automatically detects road surface damage using YOLOv12. The system identifies potholes and cracks from road images, enabling faster and more efficient road inspection.
 
 ---
 
-## 📌 Overview
+## Overview
 
 Manual road inspection is time-consuming, expensive, and prone to human error. This project leverages deep learning to automate the detection of road defects from images, making infrastructure monitoring more accurate and scalable.
 The model was trained on over **27,000 annotated road images** containing multiple road damage categories and optimized for real-world conditions using data augmentation techniques.
 
 ---
 
-## ✨ Key Highlights
+## Key Highlights
 
 - Developed a road damage detection model using **YOLOv12**
 - Trained on **27K+ annotated images** from RDD2022 dataset
@@ -28,7 +28,7 @@ The model was trained on over **27,000 annotated road images** containing multip
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - YOLOv12
@@ -40,7 +40,7 @@ The model was trained on over **27,000 annotated road images** containing multip
 ---
 
 
-## 📸 Sample Predictions
+## Sample Predictions
 
 ### Detected Road Damages
 
@@ -52,7 +52,7 @@ The model was trained on over **27,000 annotated road images** containing multip
 
 ---
 
-## 💡 Real-World Applications
+##  Real-World Applications
 
 - Smart City Infrastructure
 - Automated Road Inspection
@@ -64,6 +64,6 @@ The model was trained on over **27,000 annotated road images** containing multip
 ---
 
 
-## 📄 Note
+## Note
 
 This repository is intended to showcase the implementation, methodology, and results of the project. It is **not** the complete source code repository.
