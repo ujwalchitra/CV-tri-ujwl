@@ -63,6 +63,13 @@ The model was trained on over **27,000 annotated road images** containing multip
 
 ---
 
+## Team Collaboration
+
+| Team Member | Contribution |
+|-------------|--------------|
+| Ujwal Chitra | Dataset preparation & annotation, LLM Intergration , Document Augmentation |
+| Trisha Barma | YOLOv12 model training, preprocessing, augmentation evaluation |
+
 
 ## Note
 
